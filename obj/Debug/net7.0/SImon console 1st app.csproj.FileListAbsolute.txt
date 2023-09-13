@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\SImon console 1st app\SImon console 1st app\bin\Debug\net7.0\SImon console 1st app.exe
+C:\Users\user\source\repos\SImon console 1st app\SImon console 1st app\bin\Debug\net7.0\SImon console 1st app.deps.json
+C:\Users\user\source\repos\SImon console 1st app\SImon console 1st app\bin\Debug\net7.0\SImon console 1st app.runtimeconfig.json
+C:\Users\user\source\repos\SImon console 1st app\SImon console 1st app\bin\Debug\net7.0\SImon console 1st app.dll
+C:\Users\user\source\repos\SImon console 1st app\SImon console 1st app\bin\Debug\net7.0\SImon console 1st app.pdb
+C:\Users\user\source\repos\SImon console 1st app\SImon console 1st app\obj\Debug\net7.0\SImon console 1st app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SImon console 1st app\SImon console 1st app\obj\Debug\net7.0\SImon console 1st app.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SImon console 1st app\SImon console 1st app\obj\Debug\net7.0\SImon console 1st app.AssemblyInfo.cs
+C:\Users\user\source\repos\SImon console 1st app\SImon console 1st app\obj\Debug\net7.0\SImon console 1st app.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SImon console 1st app\SImon console 1st app\obj\Debug\net7.0\SImon console 1st app.dll
+C:\Users\user\source\repos\SImon console 1st app\SImon console 1st app\obj\Debug\net7.0\refint\SImon console 1st app.dll
+C:\Users\user\source\repos\SImon console 1st app\SImon console 1st app\obj\Debug\net7.0\SImon console 1st app.pdb
+C:\Users\user\source\repos\SImon console 1st app\SImon console 1st app\obj\Debug\net7.0\SImon console 1st app.genruntimeconfig.cache
+C:\Users\user\source\repos\SImon console 1st app\SImon console 1st app\obj\Debug\net7.0\ref\SImon console 1st app.dll
